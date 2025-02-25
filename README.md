@@ -24,4 +24,4 @@ Welcome to my GitHub profile. I'm an artist and coder who's passionate about dig
 - Proud hamster owner. Two over the Rainbow Bridge and one still with us 💚
 
 ## 🔋 Get in Touch
-[![Website](https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=globe&logoColor=white)](https://mossball-designs.neocities.org/)
+[![Website](https://img.shields.io/badge/Website-a7c957?style=for-the-badge&logo=globe&logoColor=white)](https://mossball-designs.neocities.org/)
